@@ -11,4 +11,13 @@ public class Calculator {
     int sub(int a, int b) {
         return a - b;
     }
+
+    static int div(int a, int b) {
+        return a / b;
+    }
+
+    static int mod(int a, int b) {
+        return a % b;
+    }
+
 }

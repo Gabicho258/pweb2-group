@@ -69,7 +69,9 @@
     <ul>
         <li>Cordova Silva Heidi - https://github.com/HeidiCordova/pweb2</li>
         <li>Llaique Chullunquia Angie	 - https://github.com/allaiquec/pw2Lab01	</li>
-        <li>Mamani Cañari Gabriel Antony - https://github.com/Gabicho258/pweb2 </li>
+        <li>Mamani Cañari Gabriel Antony - https://github.com/Gabicho258/pweb2 
+        </li>
+        <image height="300" src="https://user-images.githubusercontent.com/85516522/165863370-2a67271f-e69b-43cb-a6c5-efafd9af7157.png"/>
         <li>Contreras Mamani Claudia - </li>
     </ul>
 </li>

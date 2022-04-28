@@ -4,3 +4,8 @@ public class Calculator {
         System.out.println("Hello World!");
     }
 }
+
+static int div(int a,int b){
+  return a/b;
+}
+

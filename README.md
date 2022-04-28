@@ -64,19 +64,38 @@
 
 <tr><td colspan="6">SOLUCIÓN DE EJERCICIOS/PROBLEMAS:
 <ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe) TEXTO</li>
+<li>
+    Solución de ejercicios individuales: 
+    <ul>
+        <li>Cordova Silva Heidi - https://github.com/HeidiCordova/pweb2</li>
+        <li>Llaique Chullunquia Angie	 - https://github.com/allaiquec/pw2Lab01	</li>
+        <li>Mamani Cañari Gabriel Antony - https://github.com/Gabicho258/pweb2 </li>
+        <li>Contreras Mamani Claudia - </li>
+    </ul>
+</li>
+ <li>
+    Solución de ejercicios grupales: 
+     <ul>
+        <li>Link repositorio grupal - https://github.com/Gabicho258/pweb2-group</li>
+    </ul>
+    </li>
 </ul>
 </td>
 </<tr>
   <tr><td colspan="6">SOLUCIÓN DEL CUESTIONARIO
 <ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe) TEXTO</li>
+<li>¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+    <ul>
+        <li>Porque nos ayuda a crear proyectos donde varios podamos trabajar al mismo tiempo y no necesariamente en la misma máquina</li>
+        <li>Porque podemos guardar el proceso del proyecto, y si nos equivocamos no hay problema, pues tenemos las versiones anteriores del proyecto.</li>
+    </ul>
+    </li>
 </ul>
 </td>
 </<tr>
     <tr><td colspan="6">CONCLUSIONES
 <ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe) TEXTO</li>
+<li>Concluimos que git y github nos permitió generar ramas para así repartirnos y trabajar en un proyecto al mismo tiempo y con eficacia.</li>
 </ul>
 </td>
 </<tr>
@@ -90,7 +109,7 @@
 </theader>
 <tbody>
 
-<tr><td colspan="6">TEXTOOOOOOOOOOOOO
+<tr><td colspan="6">Retroalimentación asignada por el docente: 
 </td>
 
 </tdbody>

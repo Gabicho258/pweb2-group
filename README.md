@@ -103,7 +103,14 @@
 </theader>
 <tbody>
 
-<tr><td colspan="6">TEXTOOOOOOOOOOOOOOO
+<tr><td colspan="6">
+    <ul>
+        <li>
+            Guides.github.com. 2021. GitHub Guides. [online] Available at: [Accessed 10 April 2021].
+        </li>
+    </ul>
+    
+    
 </td>
 
 </tdbody>

@@ -81,7 +81,7 @@
  <li>
     <h3>Solución de ejercicios grupales: </h3>
      <ul>
-        <li>Link repositorio grupal - https://github.com/Gabicho258/pweb2-group</li>
+        <li>Link repositorio grupal (Laboratorio 01) - https://github.com/Gabicho258/pweb2-group/tree/master/Lab01</li>
          <li>Logs:
             <ul>
                 <li><image height="180" src="https://user-images.githubusercontent.com/85516522/166064539-a834c771-fc8a-42b0-a591-ea632e69d870.png"/></li>

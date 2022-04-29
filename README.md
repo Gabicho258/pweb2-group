@@ -62,23 +62,34 @@
 </theader>
 <tbody>
 
-<tr><td colspan="6">SOLUCIÓN DE EJERCICIOS/PROBLEMAS:
+<tr><td colspan="6"><h2>SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</h2>
 <ul>
 <li>
-    Solución de ejercicios individuales: 
+    <h3>Solución de ejercicios individuales - GitHub y logs de commits: </h3>
     <ul>
         <li>Cordova Silva Heidi - https://github.com/HeidiCordova/pweb2</li>
+        <image height="300" src="https://user-images.githubusercontent.com/85516522/166062522-5ddd896b-9c4c-47ba-ae16-6f1bc2df7786.png"/>
         <li>Llaique Chullunquia Angie	 - https://github.com/allaiquec/pw2Lab01	</li>
+        <image height="300" src="https://user-images.githubusercontent.com/85516522/166062622-be93af4a-4430-467d-a211-7c8de9aefebb.png"/>
         <li>Mamani Cañari Gabriel Antony - https://github.com/Gabicho258/pweb2 
         </li>
         <image height="300" src="https://user-images.githubusercontent.com/85516522/165863370-2a67271f-e69b-43cb-a6c5-efafd9af7157.png"/>
-        <li>Contreras Mamani Claudia - </li>
+        <li>Contreras Mamani Claudia - https://github.com/ccontrerasma/Pweb2-Lab1-Individual </li>
+        <image height="300" src="https://user-images.githubusercontent.com/85516522/166062960-e866c1ec-c73f-4483-bedb-e24290ca62e1.png"/>
     </ul>
 </li>
  <li>
-    Solución de ejercicios grupales: 
+    <h3>Solución de ejercicios grupales: </h3>
      <ul>
         <li>Link repositorio grupal - https://github.com/Gabicho258/pweb2-group</li>
+         <li>Logs:
+            <ul>
+                <li><image height="180" src="https://user-images.githubusercontent.com/85516522/166064539-a834c771-fc8a-42b0-a591-ea632e69d870.png"/></li>
+                <li><image height="300" src="https://user-images.githubusercontent.com/85516522/166064732-4192455f-767c-49b8-99f0-d09dec0e1bb0.png"/></li>
+                <li><image height="120" src="https://user-images.githubusercontent.com/85516522/166065228-c734ee41-68a2-4d92-b469-6df88ee660e9.png"/></li>
+                <li><image height="220" src="https://user-images.githubusercontent.com/85516522/166065911-e700f08f-9f57-43de-b9c5-79a736172fa5.png"/></li>
+             </ul>
+         </li>
     </ul>
     </li>
 </ul>

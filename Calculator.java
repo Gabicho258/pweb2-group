@@ -20,7 +20,11 @@ public class Calculator {
         return a % b;
     }
     static int add(int a, int b){
-    	return a-b;
+    	return a+b;
     }
+    static int mul(int a, int b){
+    	return a*b;
+    }
+    
 
 }

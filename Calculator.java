@@ -1,19 +1,21 @@
 
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int num1 = 6;
+        int num2 = 3;
+        System.out.println("Suma entre " + num1 + " y " + num2 + " = " + add(num1, num2));
+        System.out.println("Resta entre " + num1 + " y " + num2 + " = " + sub(num1, num2));
+        System.out.println("Multiplicación entre " + num1 + " y " + num2 + " = " + mul(num1, num2));
+        System.out.println("División entre " + num1 + " y " + num2 + " = " + dividir(num1, num2));
+        System.out.println("Módulo entre " + num1 + " y " + num2 + " = " + mod(num1, num2));
     }
 
-    public static int dividir(int a, int b) {
+    static int dividir(int a, int b) {
         return a / b;
     }
 
-    int sub(int a, int b) {
+    static int sub(int a, int b) {
         return a - b;
-    }
-
-    static int div(int a, int b) {
-        return a / b;
     }
 
     static int mod(int a, int b) {
@@ -26,5 +28,4 @@ public class Calculator {
     	return a*b;
     }
     
-
 }

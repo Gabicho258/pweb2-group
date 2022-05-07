@@ -38,6 +38,13 @@ if(month == 7){             //Si estamos en agosto, debemos cerciorarnos lo sigu
     anniversary = new Date(year,7,15);  //En caso no haya pasado de agosto, contará los días del presente año.
 
 }
+
+//Hallamos la diferencia en día entre la fecha del aniversario y la fecha actual
+let difference= anniversary-actual;
+days = difference/(1000 * 3600 * 24);
+
+console.log(days);
+
 </script>
 
 </body>

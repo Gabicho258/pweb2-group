@@ -32,7 +32,11 @@ if(month == 7){             //Si estamos en agosto, debemos cerciorarnos lo sigu
     }else{
         anniversary = new Date(year,7,15);  //En caso no haya pasado del 15, faltarán pocos días
     }
+}else if (month > 7){        //Si el mes en el que estamos pasó agosto...
+    anniversary = new Date(year+1,7,15); //tendremos que esperar hasta el próximo año.
 }else{
+    anniversary = new Date(year,7,15);  //En caso no haya pasado de agosto, contará los días del presente año.
+
 }
 </script>
 

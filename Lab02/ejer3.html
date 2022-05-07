@@ -23,7 +23,17 @@ const date = new Date().getDate();
 const actual = new Date(year,month,date); 
 
 //El aniversario es 15/08/2022
-let anniversary= new Date(2022,07,15);
+let anniversary;
+
+//Condiciones
+if(month == 7){             //Si estamos en agosto, debemos cerciorarnos lo siguiente:
+    if(date > 15){          //Que si el día en el que estamos ha pasado del 15, entonces...   
+        anniversary = new Date(year+1,7,15);   // tendremos que esperar hasta el próximo año.
+    }else{
+        anniversary = new Date(year,7,15);  //En caso no haya pasado del 15, faltarán pocos días
+    }
+}else{
+}
 </script>
 
 </body>

@@ -6,9 +6,12 @@ body {
 }
 #textoInvertido {
   font-size: 20px;
-  background-color: chartreuse;
+  background-color: rgb(148, 158, 216);
 }
-
+#boton{
+    background-color: blue;
+    color: white;
+}
   body{
     font-family: 'Roboto';
     font-weight:90;

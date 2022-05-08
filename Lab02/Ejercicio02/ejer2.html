@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <title>ejercicio2</title>
-  <link href="estilo.css" type="text/css" rel="stylesheet">
-  <meta charset="UTF-8">
-  </head>
 
-  <body>
-<h1>Ejercicio2</h1>
-  <label for="texto">Ingrese texto </label>
-  <input type='text' name='texto' id='texto'>
+<head>
+  <title>ejercicio2</title>
+  <link href="estilo.css" type="text/css" rel="stylesheet">
+  <link href="https:/fonts.googleapis.com/css?family=Roboto:400,300,500,100" rel="stylesheet">
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <div class="body">
+    <div class="container">
+    <h1>Ejercicio 02</h1>
+    <h2>Ingrese el texto a invertir</h2>
+    <label for="texto"></label>
+     <input type='text' name='texto' id='texto'>
+  
   <div id='textoInvertido'>
-    <button onclick="revertir()">REVERTIR TEXTO</button>
+    <button id ="boton" onclick="revertir()">INVERTIR</button>
   </div>
   <script>
     function revertir() {
@@ -30,16 +36,16 @@
         element.innerHTML = html;
         console.log(html);
       console.log(mensaje);
-    
     }
-
 
 
     function render(value){    
-      var str='<p>'+value+'</p>';
+      var str='<h2>'+value+'</h2>';
       return str;
     }
   </script>
-  </body>
-</html>
+  </div>
+ </div>
+</body>
 
+</html>

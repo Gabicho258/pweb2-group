@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title></title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+<h1>Ejercicio2</h1>
+  <label for="texto">Ingrese texto </label>
+  <input type='text' name='texto' id='texto'>
+  <div id='textoInvertido'>
+    <button onclick="revertir()">REVERTIR TEXTO</button>
+  </div>
+  <script>
+    function revertir() {
+      var textoAntiguo = document.getElementById('texto').value;
+     
+     // 
+
+      let mensaje = "";
+      for (let i = textoAntiguo.length - 1; i >= 0; i--) {
+        mensaje = mensaje + textoAntiguo.charAt(i);
+      
+       
+      }
+      let html = render('Texto Invertido:  ' + mensaje);
+      var element = document.getElementById('textoInvertido');
+        element.innerHTML = html;
+        console.log(html);
+      console.log(mensaje);
+    
+    }
+
+
+
+    function render(value){    
+      var str='<p>'+value+'</p>';
+      return str;
+    }
+  </script>
+  </body>
+</html>
+

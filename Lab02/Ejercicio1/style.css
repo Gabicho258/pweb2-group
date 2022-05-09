@@ -1,0 +1,58 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+html {
+  background-color: #150c1f;
+}
+body {
+  height: 100vh;
+  background-image: url("wallpaperbetter.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main {
+  margin-left: 2.5rem;
+}
+.title {
+  padding: 2rem 0;
+  font-size: 3rem;
+  color: #fff;
+}
+#inputDay {
+  width: 21rem;
+  height: 2rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+#inputDay:focus {
+  outline: none;
+}
+
+.btn {
+  margin: 15px 0;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #181bba;
+  border-radius: 6px;
+  /* border: 2px solid #0016b0; */
+}
+.btn:hover {
+  /* color: #1883ba; */
+  cursor: pointer;
+  background-color: #1719a1;
+}
+
+#result {
+  margin: 10px;
+  color: #fff;
+  font-size: 1.3rem;
+  background-color: #ba4618;
+  padding: 10px;
+  border-radius: 6px;
+}

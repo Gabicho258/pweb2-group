@@ -1,0 +1,16 @@
+#consigna{
+  font-family: Georgia;
+}
+#autor{
+   font-family: Papyrus;
+   color: green;
+}
+#demo{
+   font-family: Monaco;
+   color: DodgerBlue;
+}
+h2 {
+  color: navy;
+  margin-left: 20px;
+  font-family: Fantasy;
+}

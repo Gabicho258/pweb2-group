@@ -64,7 +64,14 @@
 
 <tr><td colspan="6"><h2>SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</h2>
 <ul>
-
+ <li><h3>Solución ejercicios individuales - Video Flipgrid</h3>
+    <ul>
+        <li>Cordova Silva Heidi - https://flipgrid.com/s/EQSCWj-eH2mk</li>
+        <li>Llaique Chullunquia Angie - https://flipgrid.com/1378ed4a</li>
+        <li>Mamani Cañari Gabriel Antony - https://flipgrid.com/s/aWSGsbhmrid_</li>
+        <li>Contreras Mamani Claudia - https://flipgrid.com/70228bf8</li>
+     </ul>
+ </li>
  <li>
     <h3>Solución de ejercicios grupales: </h3>
      <ul>
@@ -78,13 +85,13 @@
 <ul>
 <li>¿Cómo se pueden resolver los warnings?
     <ul>
-        <li></li>
-        <li></li>
+        <li>En vez de almacenar el array en una variable, se puede almacenar la longitud del array, de esa manera ya no saldrian los warnings</li>
+        <li>Se puede evitar los warning creando el array con la longitud requerida y llenarlo de valores en el mismo momento para que pueda ser iterado sin problema alguno</li>       
     </ul>
 </li>
 <li>¿Se puede modificar la solución usando map? ¿Cómo?
     <ul>
-        <li></li>
+        <li>Se puede usar <code>[...Array(6)].map((x, i)=> i)</code> para crear el array con valores del 0 hasta 6 (en este ejemplo) y nos daría como resultado el array que deseados <code>[0, 1, 2, 3, 4, 5]</code>. Gracias a esta funcion, sirve para poder iterar con todos los elementos de la matriz para poder inicializarlos </li>
     </ul>
 </li>
 </ul>
@@ -92,7 +99,7 @@
 </<tr>
     <tr><td colspan="6">CONCLUSIONES
 <ul>
-<li>Concluimos que git y github nos permitió generar ramas para así repartirnos y trabajar en un proyecto al mismo tiempo y con eficacia.</li>
+<li>Concluimos como grupo que JavaScript es un lenguaje de programación muy útil y muy usado en la programación web. Además que brinda herramientas que facilitan e escribir código y que es un lenguaje donde predomina el paradigma funcional</li>
 </ul>
 </td>
 </<tr>
@@ -108,7 +115,7 @@
 <tr><td colspan="6">
     <ul>
         <li>
-            Guides.github.com. 2021. GitHub Guides. [online] Available at: [Accessed 10 April 2021].
+           https://www.w3schools.com/js/default.asp
         </li>
     </ul>
     

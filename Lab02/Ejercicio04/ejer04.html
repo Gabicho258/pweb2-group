@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <title>ejercicio2</title>
+  <link href="estilo.css" type="text/css" rel="stylesheet">
+  <link href="https:/fonts.googleapis.com/css?family=Roboto:400,300,500,100" rel="stylesheet">
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <div class="body">
+    <div class="container">
+     <h2>JavaScript-Ejercicio 4</h2>
+        <p id="autor"><b>Autor:</b> Claudia Contreras Mamani</p>
+        <p id="consigna">Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores</p>
+   
+    <h2>Ingrese el link</h2>
+    <label for="texto"></label>
+     <input type='text' name='texto' id='texto'>
+  
+  <div id='textoInvertido'>
+    <button id ="boton" onclick="Dividir()">Click</button>
+  </div>
+  <script>
+  	function Dividir() {
+    var cadenaADividir = document.getElementById('texto').value;
+    //
+  	var arrayDeCadenas = cadenaADividir.split("-");
+  	 for (var i=0; i < arrayDeCadenas.length; i++) {
+      	document.write(arrayDeCadenas[i]);
+   		}
+	} 
+
+  
+  </script>
+  </div>
+ </div>
+</body>
+
+</html>
